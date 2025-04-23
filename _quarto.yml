@@ -12,6 +12,8 @@ website:
         text: Resume  
       - href: projects.qmd  # <-- add this
         text: Projects
+      - href: hw1_questions.qmd  # <-- add this
+        text: Blogs
 
 
 format:
