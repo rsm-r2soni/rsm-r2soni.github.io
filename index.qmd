@@ -1,0 +1,14 @@
+---
+title: "Rishabh Soni"
+image: "files/IMG_8229.jpg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:r2soni@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/rishabhsoni10
+---
+
+Welcome to my website!
+
