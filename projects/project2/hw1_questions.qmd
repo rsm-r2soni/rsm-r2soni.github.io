@@ -22,18 +22,18 @@ This project seeks to replicate their results.
 
 ### Description
 
+``` {r} 
+
+library(haven) 
+
+df <- read_dta("/home/jovyan/Desktop/Marketing Analytics/projects/project2/karlan_list_2007.dta") 
+
+``` 
+
+
 ### Reading the Data
 
 We use the dataset made available by the authors, which contains over 50,000 observations corresponding to individual donors who received various fundraising letter treatments.
-
-```{r}
-library(haven)
-
-df <- read_dta("HW1/karlan_list_2007.dta")
-
-```
-
-
 
 _todo: Read the data into R/Python and describe the data_
 
