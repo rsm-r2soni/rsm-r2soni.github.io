@@ -389,3 +389,4 @@ Each histogram above shows the sampling distribution of the difference in averag
 This simulation confirms the Central Limit Theorem: even though the underlying data are binary, the distribution of the sample mean becomes more normal and stable as the number of observations grows. The takeaway is clear — with enough data, our estimates become far more reliable.
 
 
+
