@@ -1,6 +1,6 @@
 ---
 title: "Multinomial Logit Model"
-author: "Your Name"
+author: "Rishabh Soni"
 date: today
 ---
 
@@ -110,7 +110,7 @@ data = pd.concat([simulate_responder(i) for i in range(1, 101)], ignore_index=Tr
 df = data[["Resp", "Task", "Brand", "Ads", "Price", "Chosen"]]
 df.head()
 ```
-
+:::
 
 
 
